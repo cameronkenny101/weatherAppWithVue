@@ -46,7 +46,7 @@ export default {
       }
     },
     setResults (results) {
-      this.weather = results;
+      this.weather = results; // hey
     },
     
     getNow: function() {
